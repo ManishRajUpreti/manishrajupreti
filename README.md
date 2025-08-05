@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Manish Raj Upreti</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Passionate Learner | Tech Explorer</h3>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=manishrajupreti&label=Profile%20views&color=0e75b6&style=flat" alt="manishrajupreti" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Learning+One+Tech+at+a+Time;Building+Cool+Projects;Exploring+AWS+%26+Next.js" alt="Typing SVG" />
 </p>
@@ -16,22 +20,39 @@
 
 ---
 
-## 🛠️ Tech Stack
+<h3 align="left">Contact Me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/manishrajupreti" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manishrajupreti" height="30" width="40" />
+  </a>
+</p>
 
-**Languages**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+---
 
-**Frameworks & Libraries**  
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs)  
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-
-**Tools & Databases**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
@@ -44,13 +65,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manishrajupreti&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
-
----
-
-## 📫 Contact Me
-
-- 📧 **Email**: [manishrajupreti@gmail.com](mailto:manishrajupreti@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/manishrajupreti](https://linkedin.com/in/manishrajupreti)
 
 ---
 
