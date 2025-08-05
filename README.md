@@ -1,11 +1,18 @@
-# 👋 Hi, I'm Manish Raj Upreti
+<h1 align="center">Hi 👋, I'm Manish Raj Upreti</h1>
+<h3 align="center">Aspiring Full-Stack Developer | Passionate Learner | Tech Explorer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Learning+One+Tech+at+a+Time;Building+Cool+Projects;Exploring+AWS+%26+Next.js" alt="Typing SVG" />
+</p>
+
+---
 
 ## 🚀 About Me
 
-I'm a passionate learner and aspiring **coding student**.  
-Currently diving deep into **Next.js** and exploring **AWS** ☁️
-
-I love solving problems, building responsive web apps, and constantly learning new technologies.
+- 🎓 I'm currently studying and focused on exploring the world of **Artificial Intelligence**
+- 🌱 Learning **Next.js** and exploring **AWS** ☁️  
+- 💡 I enjoy building responsive UIs and learning backend integration  
+- 🤝 Open to collaborating on real-world projects and open source  
 
 ---
 
@@ -28,17 +35,23 @@ I love solving problems, building responsive web apps, and constantly learning n
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishrajupreti&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishrajupreti&layout=compact&theme=radical)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=manishrajupreti&theme=radical)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manishrajupreti&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishrajupreti&layout=compact&theme=radical" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manishrajupreti&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 **Email**: [manishrajupreti@gmail.com](mailto:manishrajupreti@gmail.com)
+- 📧 **Email**: [manishrajupreti@gmail.com](mailto:manishrajupreti@gmail.com)  
 - 💼 **LinkedIn**: [linkedin.com/in/manishrajupreti](https://linkedin.com/in/manishrajupreti)
 
 ---
+
