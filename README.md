@@ -22,6 +22,9 @@
 
 <h3 align="left">Contact Me:</h3>
 <p align="left">
+  <a href="mailto:manishrajupreti@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Gmail.png" alt="Gmail" height="30" width="40" />
+  </a>
   <a href="https://linkedin.com/in/manishrajupreti" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manishrajupreti" height="30" width="40" />
   </a>
