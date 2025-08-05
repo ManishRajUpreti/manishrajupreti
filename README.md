@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manish Raj Upreti</h1>
-<h3 align="center">Aspiring Full-Stack Developer | Passionate Learner | Tech Explorer</h3>
+<h3 align="center">Aspiring Coding Student | Passionate Learner | Tech Explorer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=manishrajupreti&label=Profile%20views&color=0e75b6&style=flat" alt="manishrajupreti" />
