@@ -64,6 +64,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manishrajupreti&show_icons=true&theme=radical" height="180" />
 </p>
+<a width="45%" href="https://github.com/anuraghazra/github-readme-stats#language-stats-algorithm">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishkn04&size_weight=0.5&count_weight=0.5&layout=donut&langs_count=8&hide=html,css&" />
+</a>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manishrajupreti&theme=tokyo-night&hide_border=true" width="100%" />
