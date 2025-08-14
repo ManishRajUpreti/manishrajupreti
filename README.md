@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/v1.W2luqH8nL3RzY6n4/giphy.gif" width="600" />
-</h1>
+<h3 align="center">
+  <img src="https://readme-skills.vercel.app/api/card?theme=radical&font=Fira%20Code" alt="skills" />
+</h3>
 
 <h1 align="center">Hi 👋, I'm Manish Raj Upreti</h1>
 <h3 align="center">Aspiring Coding Student | Passionate Learner | Tech Explorer</h3>
