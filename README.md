@@ -1,9 +1,3 @@
-<!-- Two Samurai Fighting Animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="500" alt="Samurai Fighting Animation" />
-</p>
-
-
 <h1 align="center">Hi 👋, I'm Manish Raj Upreti</h1>
 <h3 align="center">Aspiring Coding Student | Passionate Learner | Tech Explorer</h3>
 
