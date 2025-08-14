@@ -63,10 +63,10 @@
 
 <p align=center>
   <p align="center">
-<a width="45%" href="https://github.com/anuraghazra/github-readme-stats">
+<a width="45%">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=manishrajupreti&show_icons=true&theme=react" />
 </a>
-<a width="45%" href="https://github.com/anuraghazra/github-readme-stats#language-stats-algorithm">
+<a width="45%">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishrajupreti&size_weight=0.5&count_weight=0.5&layout=donut&langs_count=8&hide=html,css&" />
 </a>
 
