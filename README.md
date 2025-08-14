@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.gifer.com/1G6K.gif" width="400" />
+<img src="https://i.pinimg.com/originals/99/3a/00/993a00c1448b1d9c4c7b2c589725f0e1.gif" width="400" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Manish Raj Upreti</h1>
