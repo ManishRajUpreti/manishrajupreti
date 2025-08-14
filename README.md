@@ -1,6 +1,6 @@
-<!-- Animated Header -->
+<!-- Falling Astronaut Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=500&lines=Hey+There!+👋;Welcome+to+my+GitHub+Profile;Let's+Build+Something+Amazing+Together!" alt="Typing Animation" />
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200" alt="Falling Astronaut Animation" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Manish Raj Upreti</h1>
