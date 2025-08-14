@@ -1,5 +1,6 @@
+<!-- Animated Header -->
 <p align="center">
-<img src="https://i.pinimg.com/originals/99/3a/00/993a00c1448b1d9c4c7b2c589725f0e1.gif" width="400" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=500&lines=Hey+There!+👋;Welcome+to+my+GitHub+Profile;Let's+Build+Something+Amazing+Together!" alt="Typing Animation" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Manish Raj Upreti</h1>
