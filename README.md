@@ -14,9 +14,9 @@
 ## 🚀 About Me
 
 - 🎓 I'm currently studying and focused on exploring the world of **Artificial Intelligence**
-- 🌱 Learning **Next.js** and exploring **AWS** ☁️  
-- 💡 I enjoy building responsive UIs and learning backend integration  
-- 🤝 Open to collaborating on real-world projects and open source  
+- 🌱 Learning **Next.js** and exploring **AWS** ☁️
+- 💡 I love bringing ideas to life by building clean, responsive UIs
+- 🤝 Looking for opportunities to contribute to open-source projects and collaborate on real-world applications
 
 ---
 
