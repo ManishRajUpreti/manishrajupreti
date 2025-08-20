@@ -28,6 +28,9 @@
   <a href="https://linkedin.com/in/manishrajupreti" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manishrajupreti" height="30" width="40" />
   </a>
+  <a href="https://instagram.com/manishrajupreti" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manishrajupreti" height="30" width="40" />
+  </a>
 </p>
 
 ---
