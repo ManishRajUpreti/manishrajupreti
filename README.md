@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🎓 I'm currently studying and focused on exploring the world of **Artificial Intelligence**
 - 🌱 Learning **Next.js** and exploring **AWS** ☁️
@@ -35,7 +35,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -75,7 +75,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align=center>
   <p align="center">
