@@ -8,14 +8,13 @@
 ![open to collaborate](https://img.shields.io/badge/-open%20to%20collaborate-3fb950?style=flat-square)
 &nbsp;
 ![student](https://img.shields.io/badge/-student-555?style=flat-square)
-🌐 [manishrajupreti.com.np](https://manishrajupreti.com.np)
 📍 Bhaktapur, Nepal
 </div>
 ---
 ## Current Focus
-| 🧠 Artificial Intelligence | 🎮 Game Development | ⚙️ Low Level Languages |
+| 🧠 Artificial Intelligence | ☁️ AWS + Next.js | 🎮 Game Development |
 |:---|:---|:---|
-| Studying ML fundamentals, experimenting with models and AI-powered apps | Exploring game systems, mechanics, and interactive UI experiences | Learning systems programming and game-ready code with C++ and C# |
+| Studying ML fundamentals, experimenting with models and AI-powered apps | Building on cloud infra, learning SSR patterns and deployment pipelines | Exploring game systems, mechanics, and interactive UI experiences |
 ---
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
