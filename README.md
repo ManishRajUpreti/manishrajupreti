@@ -1,91 +1,62 @@
-<h1 align="center">Hi 👋, I'm Manish Raj Upreti</h1>
-<h3 align="center">Aspiring Coding Student | Passionate Learner | Tech Explorer</h3>
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=manishrajupreti&label=Profile%20views&color=0e75b6&style=flat" alt="manishrajupreti" />
-</p>
+# Manish Raj Upreti
+### `@manishrajupreti`
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Exploring+Artificial+Intelligence;Interested+In+Game+Development;Exploring+AWS+%26+Next.js" alt="Typing SVG" />
-</p>
+*Aspiring developer exploring AI, cloud infrastructure, and game systems.*  
+*Building clean interfaces and learning by shipping.*
 
----
+![](https://komarev.com/ghpvc/?username=manishrajupreti&style=flat-square&color=0d6efd)
+&nbsp;
+![open to collaborate](https://img.shields.io/badge/-open%20to%20collaborate-3fb950?style=flat-square)
+&nbsp;
+![student](https://img.shields.io/badge/-student-555?style=flat-square)
 
-## About Me
+📍 Kathmandu, Nepal
 
-- 🎓 I'm currently studying and focused on exploring the world of **Artificial Intelligence**
-- 🌱 Learning **Next.js** and exploring **AWS** ☁️
-- 💡 I love bringing ideas to life by building clean, responsive UIs
-- 🤝 Looking for opportunities to contribute to open-source projects and collaborate on real-world applications
+</div>
 
 ---
 
-<h3 align="left">Contact Me:</h3>
-<p align="left">
-  <a href="mailto:manishrajupreti@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Gmail.png" alt="Gmail" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/manishrajupreti" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manishrajupreti" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/manishrajupreti" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manishrajupreti" height="30" width="40" />
-  </a>
-</p>
+## Current Focus
+
+| 🧠 Artificial Intelligence | ☁️ AWS + Next.js | 🎮 Game Development |
+|:---|:---|:---|
+| Studying ML fundamentals, experimenting with models and AI-powered apps | Building on cloud infra, learning SSR patterns and deployment pipelines | Exploring game systems, mechanics, and interactive UI experiences |
 
 ---
 
-## Languages & Tools
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-</p>
+## Tech Stack
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
 
 ## GitHub Stats
 
-<p align=center>
-  <p align="center">
-<a width="45%">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=manishrajupreti&show_icons=true&theme=react" />
-</a>
-<a width="45%">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishrajupreti&size_weight=0.5&count_weight=0.5&layout=donut&langs_count=8&hide=html,css&" />
-</a>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=manishrajupreti&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=3fb950" />
+  &nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishrajupreti&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&hide=html,css&langs_count=6" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manishrajupreti&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manishrajupreti&theme=github-compact&hide_border=true&bg_color=0d1117" width="96%" />
 </p>
 
 ---
 
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manishrajupreti)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:manishrajupreti@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/manishrajupreti)
